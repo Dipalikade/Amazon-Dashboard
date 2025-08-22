@@ -24,3 +24,5 @@ Data Modeling & DAX for KPIs and advanced measures
 Map Visualizations for global sales distribution
 
 📷 Dashboard Snapshot:
+![Amazon Dashboard Snapshot](https://github.com/Dipalikade/Amazon-Dashboard/blob/main/Snapshot_of_Dashboard.png?raw=true)
+
